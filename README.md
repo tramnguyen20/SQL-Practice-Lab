@@ -1,4 +1,4 @@
-# SQL Technical Practice Lab: From Fundamentals to Advanced Database Objects
+# SQL Technical Practice Lab
 
 ## Project Overview
 Kho lưu trữ này là tập hợp các bài tập thực hành kỹ thuật SQL (Technical Lab), hệ thống hóa toàn bộ kiến thức từ xử lý dữ liệu cơ bản đến các đối tượng nâng cao trong quản trị cơ sở dữ liệu.
